@@ -1,51 +1,44 @@
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-
-
 public class Main {
     public static void main(String[] args) {
-        List<String> input=new ArrayList<>(FileUtils.beolvas("felmeres.txt"));
-        List<String> veteran = new ArrayList<>();
-        List<String> babyboomer = new ArrayList<>();
-        List<String> xgen = new ArrayList<>();
-        List<String> ygen = new ArrayList<>();
-        List<String> zgen = new ArrayList<>();
-        List<String> alfa = new ArrayList<>();
+        List<String> inputFromFile = new ArrayList<>(FileUtils.beolvas("felmeres.txt"));
+        Map<String,List<String>> gen = new HashMap<>();
+        int ev;
+        String nev;
+        gen.put("Veteran",new ArrayList<>());
+        gen.put("Baby boomer",new ArrayList<>());
+        gen.put("X",new ArrayList<>());
+        gen.put("Y",new ArrayList<>());
+        gen.put("Z",new ArrayList<>());
+        gen.put("Alfa",new ArrayList<>());
 
-        List<List<String>> generaciok = new ArrayList<>();
 
 
-        Map<String,Integer> felhasznalok= new HashMap<>();
-        String[] seged;
-        for (String e:input){
-            seged=e.split(" ");
-            felhasznalok.put(seged[0],Integer.parseInt(seged[1]));
 
-            if (Integer.parseInt(seged[1])>=1920 && Integer.parseInt(seged[1])<=1939) veteran.add(seged[0]);
-            if (Integer.parseInt(seged[1])>=1940 && Integer.parseInt(seged[1])<=1959) babyboomer.add(seged[0]);
-            if (Integer.parseInt(seged[1])>=1960 && Integer.parseInt(seged[1])<=1983) xgen.add(seged[0]);
-            if (Integer.parseInt(seged[1])>=1984 && Integer.parseInt(seged[1])<=1994) ygen.add(seged[0]);
-            if (Integer.parseInt(seged[1])>=1995 && Integer.parseInt(seged[1])<=2009) zgen.add(seged[0]);
-            if (Integer.parseInt(seged[1])>=2010 && Integer.parseInt(seged[1])<=2012) alfa.add(seged[0]);
+
+
+
+
+
+
+        for (String s : inputFromFile) {
+            ev = Integer.parseInt(s.split(" ")[1]);
+            nev = s.split(" ")[0];
+            if ( ev >= 1920 && ev <= 1939) gen.get("Veteran").add(nev);
+            if ( ev >= 1940 && ev <= 1959) gen.get("Baby boomer").add(nev);
+            if ( ev >= 1960 && ev <= 1983) gen.get("X").add(nev);
+            if ( ev >= 1984 && ev <= 1994) gen.get("Y").add(nev);
+            if ( ev >= 1995 && ev <= 2009) gen.get("Z").add(nev);
+            if ( ev >= 2010 && ev <= 2012) gen.get("Alfa").add(nev);
+            
         }
 
-        generaciok.add(veteran);
-        generaciok.add(babyboomer);
-        generaciok.add(xgen);
-        generaciok.add(ygen);
-        generaciok.add(zgen);
-        generaciok.add(alfa);
 
-
-        FileUtils.beir("generaciok.txt",generaciok);
-
-
-
-
+       FileUtils.beir("generaciok.txt",gen);
 
 
     }
