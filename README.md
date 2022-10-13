@@ -7,4 +7,5 @@ Fontos: <br />
 C#-bol még csak egy feladat sor van, de tervezem átmásolni a java kódot C#-ra :) <br/>
 
 Ja meg nem tudom minek irja a github hogy 97.4% ban php tartalmaz(1 php fájl van). <br/>
+
 Ami fontos hogy nyomokban Java-t és C#-ot tartalmaz.
