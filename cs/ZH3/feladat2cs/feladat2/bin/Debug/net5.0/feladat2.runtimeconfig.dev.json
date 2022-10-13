@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hallgato\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hallgato\\.nuget\\packages"
+    ]
+  }
+}

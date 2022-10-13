@@ -1,0 +1,16 @@
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\bin\Debug\net5.0\feladat3.exe
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\bin\Debug\net5.0\feladat3.deps.json
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\bin\Debug\net5.0\feladat3.runtimeconfig.json
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\bin\Debug\net5.0\feladat3.runtimeconfig.dev.json
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\bin\Debug\net5.0\feladat3.dll
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\bin\Debug\net5.0\ref\feladat3.dll
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\bin\Debug\net5.0\feladat3.pdb
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\obj\Debug\net5.0\feladat3.csproj.AssemblyReference.cache
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\obj\Debug\net5.0\feladat3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\obj\Debug\net5.0\feladat3.AssemblyInfoInputs.cache
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\obj\Debug\net5.0\feladat3.AssemblyInfo.cs
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\obj\Debug\net5.0\feladat3.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\obj\Debug\net5.0\feladat3.dll
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\obj\Debug\net5.0\ref\feladat3.dll
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\obj\Debug\net5.0\feladat3.pdb
+C:\Users\hallgato\Desktop\ZH3\feladat3\feladat3\obj\Debug\net5.0\feladat3.genruntimeconfig.cache

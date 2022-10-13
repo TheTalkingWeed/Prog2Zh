@@ -1,0 +1,50 @@
+78465,Ceaser Salad
+47492,Two Medium Burgers
+72967,Menu with Medium Fries
+78471,Kids Menu
+88199,Three Small Drinks
+22411,Two Large Burgers
+36236,Two Chicken Wraps
+26637,Two Medium Drinks
+28430,Menu With Large Drink
+95635,Cheese Burger
+45079,One Large Drink
+98461,Two Special Menus
+41888,Two Medium Burgers
+97186,Burger with Fries
+40996,Chicken Wrap with Fries
+87089,Chicken Salad
+85424,Special Salad
+76980,Two Ceaser Salads
+61109,Three Large Cheese Burgers
+92086,Menu With Extra Fries
+60346,Five Medium Burgers
+17980,Spicy Burger
+89023,Three Kids Menus
+87877,Two Chicken Burgers
+66116,Two Beef Wraps
+85447,Three Large Menus
+16583,Seasonal Menu
+11080,Seasonal Drink
+87496,Four Small Burgers
+44498,Two Burgers With Fires
+92242,Six Medium Burgers
+50390,Three Chicken Burgers
+39389,Two Spicy Burgers
+61792,Tomato Salad
+21088,Tuna Burger
+89953,Tuna Salad
+98144,Three Special Wraps
+83300,Two Seasonal Drinks
+91622,Three Beef Burgers
+33384,Five Beef Wraps
+89965,Weekend Menu
+88941,Extra Large Drink
+44525,Beef Salad
+26607,Two Tuna Burgers
+90097,Three Tuna Wraps
+22517,Five Small Drinks
+99188,Greek Salad
+96504,French Salad
+65405,Six Chicken Wraps
+86783,Two Very Nice Menus
