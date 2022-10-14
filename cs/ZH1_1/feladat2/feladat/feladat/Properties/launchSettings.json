@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "feladat": {
+      "commandName": "Project",
+      "commandLineArgs": "KissAladar1983 ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789 A123"
+    }
+  }
+}
